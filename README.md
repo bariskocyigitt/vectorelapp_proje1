@@ -12,3 +12,10 @@
 <h2>Projede Oyun Bölümü Açıldıktan Sonra Adam Asmaca Oyunu Örneği<h2>
 <img src="projeanlatım\Ekran görüntüsü 2025-05-31 121203.png" height="200">
 
+<h2>Projede Doviz Kuru Öğrenme <h2>
+<img src="projeanlatım\Ekran görüntüsü 2025-05-31 121650.png" height="200">
+
+<h2>Projede İstediğin Şehrin Hava Durumunu Öğrenme <h2>
+<img src="projeanlatım\Ekran görüntüsü 2025-05-31 122025.png" height="200">
+
+
