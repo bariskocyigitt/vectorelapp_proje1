@@ -29,5 +29,12 @@
 <img src="projeanlatım\Ekran görüntüsü 2025-05-31 123944.png" height="200">
 <img src="projeanlatım\Ekran görüntüsü 2025-05-31 124057.png" height="200">
 
+### 🎥 Vektorel App Anlatım Videosu
 
+[![Vektorel App Anlatım Videosu](https://img.youtube.com/vi/y6Fny0U75yI/0.jpg)](https://youtu.be/y6Fny0U75yI)
 
+Bu videoda:
+- Projenin klasör yapısı,
+- Python ile uygulama mantığı,
+- Demo çalışma süreci  
+kısaca anlatılmıştır.
